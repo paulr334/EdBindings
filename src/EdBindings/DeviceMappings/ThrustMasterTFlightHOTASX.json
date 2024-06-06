@@ -1,0 +1,144 @@
+{
+    "name": "ThrustMaster TFlight HOTASX",
+    "controls": [
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Hat Up",
+        "controlValue": "Joy_POV1Up"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Hat Down",
+        "controlValue": "Joy_POV1Down"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Hat Left",
+        "controlValue": "Joy_POV1Left"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Hat Right",
+        "controlValue": "Joy_POV1Right"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Back Trigger L1",
+        "controlValue": "Joy_2"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Back Trigger L3",
+        "controlValue": "Joy_4"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Front Trigger R3",
+        "controlValue": "Joy_3"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Throttle Thumb button 5",
+        "controlValue": "Joy_5"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Throttle Thumb button 6",
+        "controlValue": "Joy_6"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Throttle Thumb button 7",
+        "controlValue": "Joy_7"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Throttle Thumb button 8",
+        "controlValue": "Joy_8"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Throttle Base SE button",
+        "controlValue": "Joy_11"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Throttle Base ST button",
+        "controlValue": "Joy_12"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Throttle R2 button",
+        "controlValue": "Joy_9"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Throttle L2 button",
+        "controlValue": "Joy_10"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Stick Forward/Backward",
+        "controlValue": "Joy_YAxis"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Stick Left/Right",
+        "controlValue": "Joy_XAxis"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Throttle",
+        "controlValue": "Joy_ZAxis"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Stick Rotate",
+        "controlValue": "Joy_RZAxis"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Rudder",
+        "controlValue": "Joy_UAxis"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Rudder up",
+        "controlValue": "Pos_Joy_UAxis"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Rudder down",
+        "controlValue": "Neg_Joy_UAxis"
+      },
+      {
+        "deviceId": "ThrustMasterTFlightHOTASX",
+        "deviceName": "TFlight HotasX",
+        "controlLabel": "Front Trigger R1",
+        "controlValue": "Joy_1"
+      }
+    ]
+  }
+  

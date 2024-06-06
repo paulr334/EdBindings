@@ -261,16 +261,22 @@
     "code": "VanityCameraSeven",
     "area": "General Controls",
     "category": "Camera Suite",
-    "action": "Camera - Front"
+    "action": "Camera - Co-Pilot 3"
   },
   {
     "code": "VanityCameraEight",
     "area": "General Controls",
     "category": "Camera Suite",
-    "action": "Camera - Back"
+    "action": "Camera - Front"
   },
   {
     "code": "VanityCameraNine",
+    "area": "General Controls",
+    "category": "Camera Suite",
+    "action": "Camera - Back"
+  },
+  {
+    "code": "VanityCameraTen",
     "area": "General Controls",
     "category": "Camera Suite",
     "action": "Camera - Low"
@@ -940,6 +946,12 @@
     "area": "Ship Controls",
     "category": "Flight Miscellaneous",
     "action": "Toggle Orbit Lines"
+  },
+  {
+    "code": "TriggerFieldNeutraliser",
+    "area": "Ship Controls",
+    "category": "Flight Miscellaneous",
+    "action": "Use Shutdown Field Neutraliser"
   },
   {
     "code": "SelectTarget",
@@ -2254,6 +2266,72 @@
     "area": "On Foot Controls",
     "category": "On Foot",
     "action": "Toggle Help"
+  },
+  {
+    "code": "HumanoidEmoteSlot1",
+    "area": "On Foot Controls",
+    "category": "On Foot",
+    "action": "Emote - Point"
+  },
+  {
+    "code": "HumanoidEmoteSlot2",
+    "area": "On Foot Controls",
+    "category": "On Foot",
+    "action": "Emote - Wave"
+  },
+  {
+    "code": "HumanoidEmoteSlot3",
+    "area": "On Foot Controls",
+    "category": "On Foot",
+    "action": "Emote - Agree"
+  },
+  {
+    "code": "HumanoidEmoteSlot4",
+    "area": "On Foot Controls",
+    "category": "On Foot",
+    "action": "Emote - Disagree"
+  },
+  {
+    "code": "HumanoidEmoteSlot5",
+    "area": "On Foot Controls",
+    "category": "On Foot",
+    "action": "Emote - Go"
+  },
+  {
+    "code": "HumanoidEmoteSlot6",
+    "area": "On Foot Controls",
+    "category": "On Foot",
+    "action": "Emote - Stop"
+  },
+  {
+    "code": "HumanoidEmoteSlot7",
+    "area": "On Foot Controls",
+    "category": "On Foot",
+    "action": "Emote - Applaude"
+  },
+  {
+    "code": "HumanoidEmoteSlot8",
+    "area": "On Foot Controls",
+    "category": "On Foot",
+    "action": "Emote - Salute"
+  },
+  {
+    "code": "HumanoidEmoteWheelButton",
+    "area": "On Foot Controls",
+    "category": "On Foot",
+    "action": "Emote Wheel"
+  },
+  {
+    "code": "HumanoidUtilityWheelCycleMode",
+    "area": "On Foot Controls",
+    "category": "On Foot",
+    "action": "Utility wheel mode"
+  },
+  {
+    "code": "HumanoidPing",
+    "area": "On Foot Controls",
+    "category": "On Foot",
+    "action": "Ping"
   },
   {
     "code": "GalaxyMapOpen_Humanoid",

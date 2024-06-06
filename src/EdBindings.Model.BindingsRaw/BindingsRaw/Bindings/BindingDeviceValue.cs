@@ -16,6 +16,7 @@
             return new BindingDevice(
                Name: element.Name.LocalName,
                Device: element.Attribute("Device").Value,
+               //Key: element.Attribute("Key").Value);
                Key: CreateKeyString(element));
         }
 
