@@ -1,7 +1,10 @@
 # ED:Bindings
 
-This is a little windows application that reads the key bindings file
-so that it can be searchable and mappable to keys.
+This is a fork of a fork of ghorsey's Elite Dangerous bindings app.
+I'm using it to learn c#, github and general dev with a long term
+view of adding functionality to the original app. For now it's
+probably broken so you'd be better off with Jaimemahaffey's fork: 
+https://github.com/jaimemahaffey/EdBindings
 
 <img src="https://raw.githubusercontent.com/ghorsey/EdBindings/main/assets/edbindings.screenshot.gif">
 
